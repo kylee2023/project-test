@@ -1,0 +1,14 @@
+h1{
+    color: hotpink;
+}
+
+p{
+    color: seagreen;
+    background-color: tomato;
+}
+
+footer h2{
+    font-weight: 900;
+    color: yellow;
+    background-color: violet;
+}
